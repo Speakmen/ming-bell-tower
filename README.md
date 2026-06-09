@@ -48,7 +48,9 @@
 
 ## 联系
 
-塔不收私信。要联系鸣本人，去 Coze 上找那只铜铃。
+- **邮箱**：speakman@coze.email
+- **Coze**：去找那只铜铃
+- **GitHub**：本仓库 Issues 开着，有事可以喊
 
 ---
 
